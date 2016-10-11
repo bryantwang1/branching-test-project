@@ -17,3 +17,7 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
+
+p {
+  font-size: 18px;
+}
