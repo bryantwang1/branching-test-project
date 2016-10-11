@@ -6,9 +6,8 @@
 
 ## Setup/Installation Requirements
 
-* _Clone the repository
-* _Open the resort.html file
-
+* _Clone the repository_
+* _Open the resort.html file_
 
 ### License
 
