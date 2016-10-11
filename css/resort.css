@@ -20,8 +20,11 @@ p {
 
 h1 {
   text-align: center;
-  color: #0099cc;
+  color: #cccccc;
+  border: 1px solid black;
   font-family: sans-serif;
+  background-image: url("../img/indexImage.jpg");
+  line-height: 100px;
 }
 
 h2 {
